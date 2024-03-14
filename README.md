@@ -236,6 +236,8 @@ We also want to thank @heejkoo for the very helpful overview of papers, code and
 
 ## Citation
 
+MODIFY
+
 ```bibtex
 @misc{von-platen-etal-2022-diffusers,
   author = {Patrick von Platen and Suraj Patil and Anton Lozhkov and Pedro Cuenca and Nathan Lambert and Kashif Rasul and Mishig Davaadorj and Thomas Wolf},
